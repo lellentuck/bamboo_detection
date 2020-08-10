@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New Bamboo</folder>
+	<filename>bamboo63.jpg</filename>
+	<path>/Users/laraellentuck/Desktop/New Bamboo/bamboo63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bamboo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>32</ymin>
+			<xmax>181</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>
