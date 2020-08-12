@@ -1,5 +1,7 @@
 # bamboo_detection
 This is a dataset that I collected to train my own Bamboo detector with **TensorFlow's Object Detection API**. Images are from Google Images and Google Maps. In total, there are 160 images (144 are used for training and 16 for validation).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lellentuck/bamboo_detection/master)
+
 ## Getting Started
 ###### Folder Structure:
 + annotations: contains the xml files in PASCAL VOC format
